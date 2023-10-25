@@ -851,6 +851,64 @@
                     "type": "text/x-moz-place",
                     "typeCode": 1,
                     "uri": "https://fermatslibrary.com/"
+                },
+                {
+                    "dateAdded": 1694732852486000,
+                    "guid": "-SZLp6ThPrYq",
+                    "iconUri": "https://fly.io/phx/ui/images/favicon/apple-touch-icon-3e4c9ce127b5cd6f5516638d4bbf1dd5.png?vsn=d",
+                    "id": 114,
+                    "index": 0,
+                    "lastModified": 1694732852486000,
+                    "title": "Deploy app servers close to your users · Fly",
+                    "type": "text/x-moz-place",
+                    "typeCode": 1,
+                    "uri": "https://fly.io/"
+                },
+                {
+                    "dateAdded": 1694732864322000,
+                    "guid": "QvAVVT2OQXJO",
+                    "iconUri": "https://www.trisul.org/wp-content/uploads/2020/03/xvcv.png",
+                    "id": 115,
+                    "index": 1,
+                    "lastModified": 1694732864322000,
+                    "title": "Detecting SSH tunnels - Trisul Network Analytics",
+                    "type": "text/x-moz-place",
+                    "typeCode": 1,
+                    "uri": "https://www.trisul.org/blog/detecting-ssh-tunnels/"
+                },
+                {
+                    "dateAdded": 1695753246277000,
+                    "guid": "Noy-OH497qmG",
+                    "id": 116,
+                    "index": 2,
+                    "lastModified": 1695753246277000,
+                    "title": "Verilog to Routing",
+                    "type": "text/x-moz-place",
+                    "typeCode": 1,
+                    "uri": "https://verilogtorouting.org/"
+                },
+                {
+                    "dateAdded": 1697148673137000,
+                    "guid": "93OqGNJilNp3",
+                    "id": 117,
+                    "index": 3,
+                    "lastModified": 1697148673137000,
+                    "title": "TuM'Fatig - Using OpenBSD relayd(8) as an Application Layer Gateway",
+                    "type": "text/x-moz-place",
+                    "typeCode": 1,
+                    "uri": "https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/#encrypt-http-relay-using-transport-layer-security-tls"
+                },
+                {
+                    "dateAdded": 1697488220714000,
+                    "guid": "dtfEj4Kc0LCO",
+                    "iconUri": "https://www.kalmanfilter.net/img/favicon/icon-hires.png",
+                    "id": 118,
+                    "index": 4,
+                    "lastModified": 1697488220714000,
+                    "title": "Kalman Filter Tutorial",
+                    "type": "text/x-moz-place",
+                    "typeCode": 1,
+                    "uri": "https://www.kalmanfilter.net/default.aspx"
                 }
             ],
             "dateAdded": 1677930958892000,
